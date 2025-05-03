@@ -1,2 +1,9 @@
 # suanfamama-search-recommendation-platform
-下一代搜索与推荐计算广告平台
+## intro
+* 搜索
+* 推荐
+* 生成
+
+## background
+* 计算广告
+* 计算时尚
